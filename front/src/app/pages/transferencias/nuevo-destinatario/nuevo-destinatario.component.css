@@ -1,0 +1,25 @@
+.login{
+    width: 65% !important;
+}
+
+.inline{
+    width: 100%;
+    display: inline-flex;
+}
+
+.inline > input{
+    background: #fff;
+    border-color: #bbb;
+    color: #555;
+}
+
+select{
+    width: 99%;
+    height: 56.4px;
+    padding: 12px;
+    margin: 5px 10px 5px 5px;
+}
+
+input{
+    margin: 5px;
+}
